@@ -1,0 +1,5 @@
+C:\Users\ljgso\OneDrive\Área de Trabalho\TestWeatherGeoCoding\TestWeatherGeoCoding.Service\WeatherGeocodingLibrary\obj\Debug\net8.0\WeatherGeocodingLibrary.csproj.AssemblyReference.cache
+C:\Users\ljgso\OneDrive\Área de Trabalho\TestWeatherGeoCoding\TestWeatherGeoCoding.Service\WeatherGeocodingLibrary\obj\Debug\net8.0\WeatherGeocodingLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ljgso\OneDrive\Área de Trabalho\TestWeatherGeoCoding\TestWeatherGeoCoding.Service\WeatherGeocodingLibrary\obj\Debug\net8.0\WeatherGeocodingLibrary.AssemblyInfoInputs.cache
+C:\Users\ljgso\OneDrive\Área de Trabalho\TestWeatherGeoCoding\TestWeatherGeoCoding.Service\WeatherGeocodingLibrary\obj\Debug\net8.0\WeatherGeocodingLibrary.AssemblyInfo.cs
+C:\Users\ljgso\OneDrive\Área de Trabalho\TestWeatherGeoCoding\TestWeatherGeoCoding.Service\WeatherGeocodingLibrary\obj\Debug\net8.0\WeatherGeocodingLibrary.csproj.CoreCompileInputs.cache

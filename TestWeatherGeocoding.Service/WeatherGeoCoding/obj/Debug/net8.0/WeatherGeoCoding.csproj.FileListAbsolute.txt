@@ -1,0 +1,39 @@
+C:\Users\ljgso\source\repos\WeatherGeoCoding\WeatherGeoCoding\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\ljgso\source\repos\WeatherGeoCoding\WeatherGeoCoding\bin\Debug\net8.0\appsettings.json
+C:\Users\ljgso\source\repos\WeatherGeoCoding\WeatherGeoCoding\bin\Debug\net8.0\WeatherGeoCoding.exe
+C:\Users\ljgso\source\repos\WeatherGeoCoding\WeatherGeoCoding\bin\Debug\net8.0\WeatherGeoCoding.deps.json
+C:\Users\ljgso\source\repos\WeatherGeoCoding\WeatherGeoCoding\bin\Debug\net8.0\WeatherGeoCoding.runtimeconfig.json
+C:\Users\ljgso\source\repos\WeatherGeoCoding\WeatherGeoCoding\bin\Debug\net8.0\WeatherGeoCoding.dll
+C:\Users\ljgso\source\repos\WeatherGeoCoding\WeatherGeoCoding\bin\Debug\net8.0\WeatherGeoCoding.pdb
+C:\Users\ljgso\source\repos\WeatherGeoCoding\WeatherGeoCoding\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\ljgso\source\repos\WeatherGeoCoding\WeatherGeoCoding\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\ljgso\source\repos\WeatherGeoCoding\WeatherGeoCoding\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\ljgso\source\repos\WeatherGeoCoding\WeatherGeoCoding\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\ljgso\source\repos\WeatherGeoCoding\WeatherGeoCoding\obj\Debug\net8.0\WeatherGeoCoding.csproj.AssemblyReference.cache
+C:\Users\ljgso\source\repos\WeatherGeoCoding\WeatherGeoCoding\obj\Debug\net8.0\WeatherGeoCoding.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ljgso\source\repos\WeatherGeoCoding\WeatherGeoCoding\obj\Debug\net8.0\WeatherGeoCoding.AssemblyInfoInputs.cache
+C:\Users\ljgso\source\repos\WeatherGeoCoding\WeatherGeoCoding\obj\Debug\net8.0\WeatherGeoCoding.AssemblyInfo.cs
+C:\Users\ljgso\source\repos\WeatherGeoCoding\WeatherGeoCoding\obj\Debug\net8.0\WeatherGeoCoding.csproj.CoreCompileInputs.cache
+C:\Users\ljgso\source\repos\WeatherGeoCoding\WeatherGeoCoding\obj\Debug\net8.0\WeatherGeoCoding.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ljgso\source\repos\WeatherGeoCoding\WeatherGeoCoding\obj\Debug\net8.0\WeatherGeoCoding.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ljgso\source\repos\WeatherGeoCoding\WeatherGeoCoding\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\ljgso\source\repos\WeatherGeoCoding\WeatherGeoCoding\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\ljgso\source\repos\WeatherGeoCoding\WeatherGeoCoding\obj\Debug\net8.0\staticwebassets\msbuild.WeatherGeoCoding.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\ljgso\source\repos\WeatherGeoCoding\WeatherGeoCoding\obj\Debug\net8.0\staticwebassets\msbuild.build.WeatherGeoCoding.props
+C:\Users\ljgso\source\repos\WeatherGeoCoding\WeatherGeoCoding\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.WeatherGeoCoding.props
+C:\Users\ljgso\source\repos\WeatherGeoCoding\WeatherGeoCoding\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.WeatherGeoCoding.props
+C:\Users\ljgso\source\repos\WeatherGeoCoding\WeatherGeoCoding\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\ljgso\source\repos\WeatherGeoCoding\WeatherGeoCoding\obj\Debug\net8.0\scopedcss\bundle\WeatherGeoCoding.styles.css
+C:\Users\ljgso\source\repos\WeatherGeoCoding\WeatherGeoCoding\obj\Debug\net8.0\WeatherGeoCoding.csproj.CopyComplete
+C:\Users\ljgso\source\repos\WeatherGeoCoding\WeatherGeoCoding\obj\Debug\net8.0\WeatherGeoCoding.dll
+C:\Users\ljgso\source\repos\WeatherGeoCoding\WeatherGeoCoding\obj\Debug\net8.0\refint\WeatherGeoCoding.dll
+C:\Users\ljgso\source\repos\WeatherGeoCoding\WeatherGeoCoding\obj\Debug\net8.0\WeatherGeoCoding.pdb
+C:\Users\ljgso\source\repos\WeatherGeoCoding\WeatherGeoCoding\obj\Debug\net8.0\WeatherGeoCoding.genruntimeconfig.cache
+C:\Users\ljgso\source\repos\WeatherGeoCoding\WeatherGeoCoding\obj\Debug\net8.0\ref\WeatherGeoCoding.dll
+C:\Users\ljgso\OneDrive\Área de Trabalho\TestWeatherGeoCoding\TestWeatherGeoCoding.Service\WeatherGeoCoding\obj\Debug\net8.0\WeatherGeoCoding.csproj.AssemblyReference.cache
+C:\Users\ljgso\OneDrive\Área de Trabalho\TestWeatherGeoCoding\TestWeatherGeoCoding.Service\WeatherGeoCoding\obj\Debug\net8.0\WeatherGeoCoding.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ljgso\OneDrive\Área de Trabalho\TestWeatherGeoCoding\TestWeatherGeoCoding.Service\WeatherGeoCoding\obj\Debug\net8.0\WeatherGeoCoding.AssemblyInfoInputs.cache
+C:\Users\ljgso\OneDrive\Área de Trabalho\TestWeatherGeoCoding\TestWeatherGeoCoding.Service\WeatherGeoCoding\obj\Debug\net8.0\WeatherGeoCoding.AssemblyInfo.cs
+C:\Users\ljgso\OneDrive\Área de Trabalho\TestWeatherGeoCoding\TestWeatherGeoCoding.Service\WeatherGeoCoding\obj\Debug\net8.0\WeatherGeoCoding.csproj.CoreCompileInputs.cache
+C:\Users\ljgso\OneDrive\Área de Trabalho\TestWeatherGeoCoding\TestWeatherGeoCoding.Service\WeatherGeoCoding\obj\Debug\net8.0\WeatherGeoCoding.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ljgso\OneDrive\Área de Trabalho\TestWeatherGeoCoding\TestWeatherGeoCoding.Service\WeatherGeoCoding\obj\Debug\net8.0\WeatherGeoCoding.MvcApplicationPartsAssemblyInfo.cache

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "GrjnVZ1YJq14s+LWkhM/FcAHRktgkXQJ+QjAd4QHdn8=",
+  "Source": "WeatherGeocoding.API",
+  "BasePath": "_content/WeatherGeocoding.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
