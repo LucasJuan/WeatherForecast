@@ -5,61 +5,61 @@ public class GeocodingResult : ErrorResponse
     public GeocodingResult() { }
 
     public GeocodingResult(string errorMessage) : base(errorMessage) { }
-    public Result result { get; set; }
+    public Result Result { get; set; }
 }
 
 public class Result
 {
-    public Input input { get; set; }
-    public List<Address> addressMatches { get; set; }
+    public Input Input { get; set; }
+    public List<Address> AddressMatches { get; set; }
 }
 public class Input
 {
-    public Address address { get; set; }
-    public Benchmark benchmark { get; set; }
+    public Address Address { get; set; }
+    public Benchmark Benchmark { get; set; }
 }
 
 public class Address
 {
-    public string address { get; set; }
-    public TigerLine tigerLine { get; set; }
-    public Coordinates coordinates { get; set; }
-    public AddressComponents addressComponents { get; set; }
-    public string matchedAddress { get; set; }
+    public string Address { get; set; }
+    public TigerLine TigerLine { get; set; }
+    public Coordinates Coordinates { get; set; }
+    public AddressComponents AddressComponents { get; set; }
+    public string MatchedAddress { get; set; }
 }
 
 public class Benchmark
 {
-    public bool isDefault { get; set; }
-    public string benchmarkDescription { get; set; }
-    public string id { get; set; }
-    public string benchmarkName { get; set; }
+    public bool IsDefault { get; set; }
+    public string BenchmarkDescription { get; set; }
+    public string Id { get; set; }
+    public string BenchmarkName { get; set; }
 }
 
 public class TigerLine
 {
-    public string side { get; set; }
-    public string tigerLineId { get; set; }
+    public string Side { get; set; }
+    public string TigerLineId { get; set; }
 }
 
 public class Coordinates
 {
-    public double x { get; set; }
-    public double y { get; set; }
+    public double X { get; set; }
+    public double Y { get; set; }
 }
 
 public class AddressComponents
 {
-    public string zip { get; set; }
-    public string streetName { get; set; }
-    public string preType { get; set; }
-    public string city { get; set; }
-    public string preDirection { get; set; }
-    public string suffixDirection { get; set; }
-    public string fromAddress { get; set; }
-    public string state { get; set; }
-    public string suffixType { get; set; }
-    public string toAddress { get; set; }
-    public string suffixQualifier { get; set; }
-    public string preQualifier { get; set; }
+    public string Zip { get; set; }
+    public string StreetName { get; set; }
+    public string PreType { get; set; }
+    public string City { get; set; }
+    public string PreDirection { get; set; }
+    public string SuffixDirection { get; set; }
+    public string FromAddress { get; set; }
+    public string State { get; set; }
+    public string SuffixType { get; set; }
+    public string ToAddress { get; set; }
+    public string SuffixQualifier { get; set; }
+    public string PreQualifier { get; set; }
 }

@@ -31,8 +31,8 @@ public class OpenWeatherMapService : IOpenWeatherMapService
 
         if (geoCodeResult is not null)
         {
-            var longitude = geoCodeResult?.result.addressMatches.Select(x => x.coordinates.x).FirstOrDefault();
-            var latitude = geoCodeResult?.result.addressMatches.Select(y => y.coordinates.y).FirstOrDefault();
+            var longitude = geoCodeResult?.Result.AddressMatches.Select(x => x.Coordinates.X).FirstOrDefault();
+            var latitude = geoCodeResult?.Result.AddressMatches.Select(y => y.Coordinates.Y).FirstOrDefault();
 
             string url = $"{_options.Value.OpenWeatherURL}lat={latitude}&lon={longitude}&exclude=current,minutely,hourly&appid={_options.Value.ApiKey}";
 
@@ -86,7 +86,7 @@ public class OpenWeatherMapService : IOpenWeatherMapService
                 using (StreamReader reader = new StreamReader(stream))
                 {
                     var result = JsonSerializer.Deserialize<GeocodingResult>(await reader.ReadToEndAsync());
-                    return result is not null ? (result.result.addressMatches.Count <= 0 ? new GeocodingResult($"No results found for the specified address") : result)
+                    return result is not null ? (result.Result.AddressMatches.Count <= 0 ? new GeocodingResult($"No results found for the specified address") : result)
                                               : new GeocodingResult($"Error to Deserialize Response API Geocoding");
                 }
             }
