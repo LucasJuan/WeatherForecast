@@ -10,3 +10,16 @@ C:\Users\ljgso\OneDrive\Área de Trabalho\TestWeatherGeoCoding\TestWeatherGeoCod
 C:\Users\ljgso\OneDrive\Área de Trabalho\TestWeatherGeoCoding\TestWeatherGeoCoding.Service\WeatherGeocodingLibrary\obj\Debug\net8.0\refint\WeatherGeocoding.Domain.dll
 C:\Users\ljgso\OneDrive\Área de Trabalho\TestWeatherGeoCoding\TestWeatherGeoCoding.Service\WeatherGeocodingLibrary\obj\Debug\net8.0\WeatherGeocoding.Domain.pdb
 C:\Users\ljgso\OneDrive\Área de Trabalho\TestWeatherGeoCoding\TestWeatherGeoCoding.Service\WeatherGeocodingLibrary\obj\Debug\net8.0\ref\WeatherGeocoding.Domain.dll
+C:\Users\ljgso\OneDrive\Área de Trabalho\TestWeatherGeoCoding\WeatherForecast\TestWeatherGeocoding.Service\WeatherGeocodingLibrary\bin\Debug\net8.0\WeatherGeocoding.Domain.deps.json
+C:\Users\ljgso\OneDrive\Área de Trabalho\TestWeatherGeoCoding\WeatherForecast\TestWeatherGeocoding.Service\WeatherGeocodingLibrary\bin\Debug\net8.0\WeatherGeocoding.Domain.dll
+C:\Users\ljgso\OneDrive\Área de Trabalho\TestWeatherGeoCoding\WeatherForecast\TestWeatherGeocoding.Service\WeatherGeocodingLibrary\bin\Debug\net8.0\WeatherGeocoding.Domain.pdb
+C:\Users\ljgso\OneDrive\Área de Trabalho\TestWeatherGeoCoding\WeatherForecast\TestWeatherGeocoding.Service\WeatherGeocodingLibrary\obj\Debug\net8.0\WeatherGeocoding.Domain.csproj.AssemblyReference.cache
+C:\Users\ljgso\OneDrive\Área de Trabalho\TestWeatherGeoCoding\WeatherForecast\TestWeatherGeocoding.Service\WeatherGeocodingLibrary\obj\Debug\net8.0\WeatherGeocoding.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ljgso\OneDrive\Área de Trabalho\TestWeatherGeoCoding\WeatherForecast\TestWeatherGeocoding.Service\WeatherGeocodingLibrary\obj\Debug\net8.0\WeatherGeocoding.Domain.AssemblyInfoInputs.cache
+C:\Users\ljgso\OneDrive\Área de Trabalho\TestWeatherGeoCoding\WeatherForecast\TestWeatherGeocoding.Service\WeatherGeocodingLibrary\obj\Debug\net8.0\WeatherGeocoding.Domain.AssemblyInfo.cs
+C:\Users\ljgso\OneDrive\Área de Trabalho\TestWeatherGeoCoding\WeatherForecast\TestWeatherGeocoding.Service\WeatherGeocodingLibrary\obj\Debug\net8.0\WeatherGeocoding.Domain.csproj.CoreCompileInputs.cache
+C:\Users\ljgso\OneDrive\Área de Trabalho\TestWeatherGeoCoding\WeatherForecast\TestWeatherGeocoding.Service\WeatherGeocodingLibrary\obj\Debug\net8.0\WeatherGeocoding.Domain.sourcelink.json
+C:\Users\ljgso\OneDrive\Área de Trabalho\TestWeatherGeoCoding\WeatherForecast\TestWeatherGeocoding.Service\WeatherGeocodingLibrary\obj\Debug\net8.0\WeatherGeocoding.Domain.dll
+C:\Users\ljgso\OneDrive\Área de Trabalho\TestWeatherGeoCoding\WeatherForecast\TestWeatherGeocoding.Service\WeatherGeocodingLibrary\obj\Debug\net8.0\refint\WeatherGeocoding.Domain.dll
+C:\Users\ljgso\OneDrive\Área de Trabalho\TestWeatherGeoCoding\WeatherForecast\TestWeatherGeocoding.Service\WeatherGeocodingLibrary\obj\Debug\net8.0\WeatherGeocoding.Domain.pdb
+C:\Users\ljgso\OneDrive\Área de Trabalho\TestWeatherGeoCoding\WeatherForecast\TestWeatherGeocoding.Service\WeatherGeocodingLibrary\obj\Debug\net8.0\ref\WeatherGeocoding.Domain.dll

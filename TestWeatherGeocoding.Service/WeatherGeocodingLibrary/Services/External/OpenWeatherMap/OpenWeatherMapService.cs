@@ -45,7 +45,12 @@ public class OpenWeatherMapService : IOpenWeatherMapService
                     using (Stream stream = await response.Content.ReadAsStreamAsync())
                     using (StreamReader reader = new StreamReader(stream))
                     {
-                        var result = JsonSerializer.Deserialize<WeatherForecastResult>(await reader.ReadToEndAsync());
+                        var jsonSerializerOptions = new JsonSerializerOptions
+                        {
+                            PropertyNamingPolicy = JsonNamingPolicy.CamelCase,
+                        };
+
+                        var result = JsonSerializer.Deserialize<WeatherForecastResult>(await reader.ReadToEndAsync(), jsonSerializerOptions);
                         return result is not null ? result : new WeatherForecastResult($"Error to Deserialize Response API OpenWeatherMap");
                     }
                 }
@@ -79,17 +84,32 @@ public class OpenWeatherMapService : IOpenWeatherMapService
         try
         {
             var response = await _httpClient.GetAsync(apiUrl);
-
             if (response.IsSuccessStatusCode)
             {
                 using (Stream stream = await response.Content.ReadAsStreamAsync())
                 using (StreamReader reader = new StreamReader(stream))
                 {
-                    var result = JsonSerializer.Deserialize<GeocodingResult>(await reader.ReadToEndAsync());
+                    var jsonSerializerOptions = new JsonSerializerOptions
+                    {
+                        PropertyNamingPolicy = JsonNamingPolicy.CamelCase,
+                    };
+
+                    var result = JsonSerializer.Deserialize<GeocodingResult>(await reader.ReadToEndAsync(), jsonSerializerOptions);
+
                     return result is not null ? (result.Result.AddressMatches.Count <= 0 ? new GeocodingResult($"No results found for the specified address") : result)
                                               : new GeocodingResult($"Error to Deserialize Response API Geocoding");
                 }
             }
+            //if (response.IsSuccessStatusCode)
+            //{
+            //    using (Stream stream = await response.Content.ReadAsStreamAsync())
+            //    using (StreamReader reader = new StreamReader(stream))
+            //    {
+            //        var result = JsonSerializer.Deserialize<GeocodingResult>(await reader.ReadToEndAsync());
+            //        return result is not null ? (result.Result.AddressMatches.Count <= 0 ? new GeocodingResult($"No results found for the specified address") : result)
+            //                                  : new GeocodingResult($"Error to Deserialize Response API Geocoding");
+            //    }
+            //}
             else
             {
                 return new GeocodingResult($"Error to call API Geocoding: {(int)response.StatusCode} - {response.ReasonPhrase}");

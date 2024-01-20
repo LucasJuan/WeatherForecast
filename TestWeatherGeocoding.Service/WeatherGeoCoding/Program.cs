@@ -5,6 +5,12 @@ using WeatherGeoCoding.Configuration;
 
 var builder = WebApplication.CreateBuilder(args);
 
+builder.Services.AddControllers()
+    .AddJsonOptions(options =>
+    {
+        options.JsonSerializerOptions.PropertyNamingPolicy = JsonNamingPolicy.CamelCase;
+    });
+
 #region Registration
 
 builder.Services.Register(builder.Configuration);
@@ -12,9 +18,6 @@ builder.Services.RegisterCors(builder.Configuration);
 
 #endregion
 // Add services to the container.
-
-builder.Services.AddControllers()
-    .AddJsonOptions(opt => { opt.JsonSerializerOptions.PropertyNamingPolicy = JsonNamingPolicy.CamelCase; });
 
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
