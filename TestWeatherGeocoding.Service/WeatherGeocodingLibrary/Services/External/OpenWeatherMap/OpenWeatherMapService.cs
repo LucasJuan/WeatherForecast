@@ -34,7 +34,7 @@ public class OpenWeatherMapService : IOpenWeatherMapService
             var longitude = geoCodeResult?.Result.AddressMatches.Select(x => x.Coordinates.X).FirstOrDefault();
             var latitude = geoCodeResult?.Result.AddressMatches.Select(y => y.Coordinates.Y).FirstOrDefault();
 
-            string url = $"{_options.Value.OpenWeatherURL}lat={latitude}&lon={longitude}&exclude=current,minutely,hourly&appid={_options.Value.ApiKey}";
+            string url = $"{_options.Value.OpenMeteoUrl}latitude={latitude}&longitude={longitude}&current=temperature_2m&daily=weather_code";
 
             try
             {
@@ -79,7 +79,7 @@ public class OpenWeatherMapService : IOpenWeatherMapService
     /// <returns>The geocoding result.</returns>
     public async Task<GeocodingResult> GeocodeAddressAsync(string address, string benchmark, string vintage)
     {
-        string apiUrl = $"{_options.Value.GeoCodingURL}address={Uri.EscapeDataString(address)}&benchmark={benchmark}&vintage={vintage}&format=json&";
+        string apiUrl = $"{_options.Value.GeoCodingUrl}address={Uri.EscapeDataString(address)}&benchmark={benchmark}&vintage={vintage}&format=json&";
 
         try
         {

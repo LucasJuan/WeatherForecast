@@ -5,12 +5,6 @@ using WeatherGeoCoding.Configuration;
 
 var builder = WebApplication.CreateBuilder(args);
 
-builder.Services.AddControllers()
-    .AddJsonOptions(options =>
-    {
-        options.JsonSerializerOptions.PropertyNamingPolicy = JsonNamingPolicy.CamelCase;
-    });
-
 #region Registration
 
 builder.Services.Register(builder.Configuration);
