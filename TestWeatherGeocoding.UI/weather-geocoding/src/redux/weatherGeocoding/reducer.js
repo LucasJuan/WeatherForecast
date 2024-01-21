@@ -1,6 +1,6 @@
 import weatherGeocodingActions from "./actionsType";
 const initialState = {
-  data: [],
+  data: {},
   error:"No content to show"
 };
 
@@ -9,7 +9,7 @@ function weatherGeocodingReducer(state = initialState, action) {
     case weatherGeocodingActions.FETCH_DATA:
       return {
         ...state,
-        data: action.data ??[],
+        data: action.data ??{},
       };
       case weatherGeocodingActions.ERROR_FETCH:
       return {

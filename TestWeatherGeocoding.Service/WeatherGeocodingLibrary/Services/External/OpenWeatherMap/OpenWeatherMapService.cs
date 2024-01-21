@@ -34,7 +34,7 @@ public class OpenWeatherMapService : IOpenWeatherMapService
             var longitude = geoCodeResult?.Result.AddressMatches.Select(x => x.Coordinates.X).FirstOrDefault();
             var latitude = geoCodeResult?.Result.AddressMatches.Select(y => y.Coordinates.Y).FirstOrDefault();
 
-            string url = $"{_options.Value.OpenMeteoUrl}latitude={latitude}&longitude={longitude}&current=temperature_2m&daily=weather_code";
+            string url = $"{_options.Value.OpenMeteoUrl}latitude={latitude}&longitude={longitude}&current=temperature_2m&daily=weather_code,temperature_2m_max,temperature_2m_min";
 
             try
             {

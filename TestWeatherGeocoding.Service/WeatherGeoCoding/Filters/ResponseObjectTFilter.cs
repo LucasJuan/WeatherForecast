@@ -31,7 +31,7 @@ namespace WeatherGeocoding.API.Filters
             {
                 if (result.StatusCode >= 200 && result.StatusCode <= 299)
                 {
-                    VO(result.Value!);
+                    result.Value = VO(result.Value!);
                 }
                 else
                 {
@@ -39,6 +39,7 @@ namespace WeatherGeocoding.API.Filters
                 }
             }
         }
+
 
         private static void CheckErrorValueResult(ObjectResult? result)
         {

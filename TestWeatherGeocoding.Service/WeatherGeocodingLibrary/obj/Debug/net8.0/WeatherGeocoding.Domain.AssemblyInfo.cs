@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WeatherGeocoding.Domain")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7691b702aaaf8e18e2a3ef33a5d94d61df13dfa8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b13df39a80f2c4603abc121fff88f279067ee426")]
 [assembly: System.Reflection.AssemblyProductAttribute("WeatherGeocoding.Domain")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WeatherGeocoding.Domain")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
