@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ljgso\\OneDrive\\Área de Trabalho\\TestWeatherGeoCoding\\WeatherForecast\\TestWeatherGeocoding.Service\\WeatherGeoCoding\\WeatherGeocoding.API.csproj": {}
+    "C:\\Users\\ljgso\\OneDrive\\Área de Trabalho\\OpenMeteo\\WeatherForecast_OpenMeteo\\TestWeatherGeocoding.Service\\WeatherGeoCoding\\WeatherGeocoding.API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ljgso\\OneDrive\\Área de Trabalho\\TestWeatherGeoCoding\\WeatherForecast\\TestWeatherGeocoding.Service\\WeatherGeocodingLibrary\\WeatherGeocoding.Domain.csproj": {
+    "C:\\Users\\ljgso\\OneDrive\\Área de Trabalho\\OpenMeteo\\WeatherForecast_OpenMeteo\\TestWeatherGeocoding.Service\\WeatherGeocodingLibrary\\WeatherGeocoding.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ljgso\\OneDrive\\Área de Trabalho\\TestWeatherGeoCoding\\WeatherForecast\\TestWeatherGeocoding.Service\\WeatherGeocodingLibrary\\WeatherGeocoding.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\ljgso\\OneDrive\\Área de Trabalho\\OpenMeteo\\WeatherForecast_OpenMeteo\\TestWeatherGeocoding.Service\\WeatherGeocodingLibrary\\WeatherGeocoding.Domain.csproj",
         "projectName": "WeatherGeocoding.Domain",
-        "projectPath": "C:\\Users\\ljgso\\OneDrive\\Área de Trabalho\\TestWeatherGeoCoding\\WeatherForecast\\TestWeatherGeocoding.Service\\WeatherGeocodingLibrary\\WeatherGeocoding.Domain.csproj",
+        "projectPath": "C:\\Users\\ljgso\\OneDrive\\Área de Trabalho\\OpenMeteo\\WeatherForecast_OpenMeteo\\TestWeatherGeocoding.Service\\WeatherGeocodingLibrary\\WeatherGeocoding.Domain.csproj",
         "packagesPath": "C:\\Users\\ljgso\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ljgso\\OneDrive\\Área de Trabalho\\TestWeatherGeoCoding\\WeatherForecast\\TestWeatherGeocoding.Service\\WeatherGeocodingLibrary\\obj\\",
+        "outputPath": "C:\\Users\\ljgso\\OneDrive\\Área de Trabalho\\OpenMeteo\\WeatherForecast_OpenMeteo\\TestWeatherGeocoding.Service\\WeatherGeocodingLibrary\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -69,14 +69,14 @@
         }
       }
     },
-    "C:\\Users\\ljgso\\OneDrive\\Área de Trabalho\\TestWeatherGeoCoding\\WeatherForecast\\TestWeatherGeocoding.Service\\WeatherGeoCoding\\WeatherGeocoding.API.csproj": {
+    "C:\\Users\\ljgso\\OneDrive\\Área de Trabalho\\OpenMeteo\\WeatherForecast_OpenMeteo\\TestWeatherGeocoding.Service\\WeatherGeoCoding\\WeatherGeocoding.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ljgso\\OneDrive\\Área de Trabalho\\TestWeatherGeoCoding\\WeatherForecast\\TestWeatherGeocoding.Service\\WeatherGeoCoding\\WeatherGeocoding.API.csproj",
+        "projectUniqueName": "C:\\Users\\ljgso\\OneDrive\\Área de Trabalho\\OpenMeteo\\WeatherForecast_OpenMeteo\\TestWeatherGeocoding.Service\\WeatherGeoCoding\\WeatherGeocoding.API.csproj",
         "projectName": "WeatherGeocoding.API",
-        "projectPath": "C:\\Users\\ljgso\\OneDrive\\Área de Trabalho\\TestWeatherGeoCoding\\WeatherForecast\\TestWeatherGeocoding.Service\\WeatherGeoCoding\\WeatherGeocoding.API.csproj",
+        "projectPath": "C:\\Users\\ljgso\\OneDrive\\Área de Trabalho\\OpenMeteo\\WeatherForecast_OpenMeteo\\TestWeatherGeocoding.Service\\WeatherGeoCoding\\WeatherGeocoding.API.csproj",
         "packagesPath": "C:\\Users\\ljgso\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ljgso\\OneDrive\\Área de Trabalho\\TestWeatherGeoCoding\\WeatherForecast\\TestWeatherGeocoding.Service\\WeatherGeoCoding\\obj\\",
+        "outputPath": "C:\\Users\\ljgso\\OneDrive\\Área de Trabalho\\OpenMeteo\\WeatherForecast_OpenMeteo\\TestWeatherGeocoding.Service\\WeatherGeoCoding\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -97,8 +97,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\ljgso\\OneDrive\\Área de Trabalho\\TestWeatherGeoCoding\\WeatherForecast\\TestWeatherGeocoding.Service\\WeatherGeocodingLibrary\\WeatherGeocoding.Domain.csproj": {
-                "projectPath": "C:\\Users\\ljgso\\OneDrive\\Área de Trabalho\\TestWeatherGeoCoding\\WeatherForecast\\TestWeatherGeocoding.Service\\WeatherGeocodingLibrary\\WeatherGeocoding.Domain.csproj"
+              "C:\\Users\\ljgso\\OneDrive\\Área de Trabalho\\OpenMeteo\\WeatherForecast_OpenMeteo\\TestWeatherGeocoding.Service\\WeatherGeocodingLibrary\\WeatherGeocoding.Domain.csproj": {
+                "projectPath": "C:\\Users\\ljgso\\OneDrive\\Área de Trabalho\\OpenMeteo\\WeatherForecast_OpenMeteo\\TestWeatherGeocoding.Service\\WeatherGeocodingLibrary\\WeatherGeocoding.Domain.csproj"
               }
             }
           }

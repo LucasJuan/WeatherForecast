@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "sQ9AZ93TUm8ueUGgpjsv5lBns1fEUuo5ibKXlE3S2DgLb1uzYoNfR0hgXqmblE4CLFW5Hnxa/eOwHsWgJzspMA==",
+  "dgSpecHash": "OZDlTroBKTpT6lNckvY0s5PGo3hKhkMvnR0/N1CEHpjN4sdK7pzmzkrDR4zW3W9WJrRvqFHWFFl/j0gi29t00Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ljgso\\OneDrive\\Área de Trabalho\\TestWeatherGeoCoding\\WeatherForecast\\TestWeatherGeocoding.Service\\WeatherGeoCoding\\WeatherGeocoding.API.csproj",
+  "projectFilePath": "C:\\Users\\ljgso\\OneDrive\\Área de Trabalho\\OpenMeteo\\WeatherForecast_OpenMeteo\\TestWeatherGeocoding.Service\\WeatherGeoCoding\\WeatherGeocoding.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ljgso\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "C:\\Users\\ljgso\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
