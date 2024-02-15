@@ -1,6 +1,6 @@
-This project display the 7 day forecast for a specified postal address on a React page.US Census Geocoding service for converting postal addresses into latitude and longitude:
-https://geocoding.geo.census.gov/geocoder/Geocoding_Services_API.pdf
-the UI ought understand and generate a grid to show the 7 days fo forecast.
+This project display the 7 day forecast for a specified postal address on a React page. Using US Census Geocoding service for converting postal addresses into latitude and longitude, you can check the documentation here:
+<https://geocoding.geo.census.gov/geocoder/Geocoding_Services_API.pdf>
+The UI ought understand and generate a grid to show the 7 days fo forecast.
 As a part of this project I'm using the Thrird part API to get the weather forecast 
 Free Weather API available in: https://open-meteo.com/ (check the documentation if necessary)
 https://open-meteo.com/en/docs#latitude=52.52&longitude=13.41&current=temperature_2m&hourly=&daily=weather_code,temperature_2m_max,temperature_2m_min&timezone=America%2FLos_Angeles
