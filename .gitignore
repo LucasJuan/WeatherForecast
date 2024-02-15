@@ -2,3 +2,6 @@
 
 # ignore path .vs/
 TestWeatherGeocoding.Service/.vs/
+TestWeatherGeocoding.Service/WeatherGeoCoding/bin/Debug
+TestWeatherGeocoding.Service/WeatherGeocoding.Service/bin/Debug
+TestWeatherGeocoding.Service/WeatherGeocodingLibrary/bin/Debug
