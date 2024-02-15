@@ -1,12 +1,33 @@
-This project display the 7 day forecast for a specified postal address on a React page. Using US Census Geocoding service for converting postal addresses into latitude and longitude, you can check the documentation here:
-<https://geocoding.geo.census.gov/geocoder/Geocoding_Services_API.pdf>
-The UI ought understand and generate a grid to show the 7 days fo forecast.
-As a part of this project I'm using the Thrird part API to get the weather forecast 
-Free Weather API available in: https://open-meteo.com/ (check the documentation if necessary)
-https://open-meteo.com/en/docs#latitude=52.52&longitude=13.41&current=temperature_2m&hourly=&daily=weather_code,temperature_2m_max,temperature_2m_min&timezone=America%2FLos_Angeles
+# Weather Forecast Project
 
-![Imagem do WhatsApp de 2024-01-20 à(s) 13 37 05_8aaf2aa5](https://github.com/LucasJuan/WeatherForecast/assets/60763284/a531ce30-dc76-4123-8f29-0fbce5d33343)
+## Overview
 
-![Imagem do WhatsApp de 2024-01-21 à(s) 17 53 42_e624b503](https://github.com/LucasJuan/WeatherForecast/assets/60763284/e6d179f1-92b9-494b-9a6b-7594af703fb8)
+This project displays the 7-day forecast for a specified postal address on a React page. It utilizes the US Census Geocoding service for converting postal addresses into latitude and longitude.
 
-![Imagem do WhatsApp de 2024-01-21 à(s) 17 52 15_39b9518e](https://github.com/LucasJuan/WeatherForecast/assets/60763284/4ca619f5-2223-4521-b819-26b31bd6b707)
+## APIs Used
+
+- [US Census Geocoding API](https://geocoding.geo.census.gov/geocoder/Geocoding_Services_API.pdf)
+- [Open Meteo Weather API](https://open-meteo.com/en/docs#latitude=52.52&longitude=13.41&current=temperature_2m&hourly=&daily=weather_code,temperature_2m_max,temperature_2m_min&timezone=America%2FLos_Angeles)
+
+## Project Structure
+
+The UI is designed to generate a grid that displays the 7-day weather forecast. Three sample images showcase the project:
+![image](https://github.com/LucasJuan/WeatherForecast_OpenMeteo/assets/60763284/d336ad7b-6299-4432-b84a-fe7750faac44)
+![image](https://github.com/LucasJuan/WeatherForecast_OpenMeteo/assets/60763284/b61f4043-a438-41f7-86ce-89478b4aca90)
+![image](https://github.com/LucasJuan/WeatherForecast_OpenMeteo/assets/60763284/1b035729-d62d-485a-8444-976861fb5d9d)
+
+## Getting Started
+
+To run the project locally, follow these steps:
+
+1. Clone the repository: `git clone https://github.com/LucasJuan/WeatherForecast.git`
+2. Install dependencies: `npm install`
+3. Run the application: `npm start`
+
+## Contributing
+
+If you'd like to contribute to this project, please follow the [Contribution Guidelines](CONTRIBUTING.md).
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
