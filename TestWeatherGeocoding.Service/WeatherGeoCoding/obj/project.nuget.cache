@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "OZDlTroBKTpT6lNckvY0s5PGo3hKhkMvnR0/N1CEHpjN4sdK7pzmzkrDR4zW3W9WJrRvqFHWFFl/j0gi29t00Q==",
+  "dgSpecHash": "6KcMSZR6dGsPg3+ixBYAkwjXZWeRPGllAURdUoOZTq9+OYyqPwHWwKJogIRzvB1rRPteQ5IGo5cfQsbqI5soBA==",
   "success": true,
   "projectFilePath": "C:\\Users\\ljgso\\OneDrive\\Área de Trabalho\\OpenMeteo\\WeatherForecast_OpenMeteo\\TestWeatherGeocoding.Service\\WeatherGeoCoding\\WeatherGeocoding.API.csproj",
   "expectedPackageFiles": [

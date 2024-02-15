@@ -12,6 +12,7 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\WeatherGeocoding.Service\WeatherGeocoding.Service.csproj" />
     <ProjectReference Include="..\WeatherGeocodingLibrary\WeatherGeocoding.Domain.csproj" />
   </ItemGroup>
 

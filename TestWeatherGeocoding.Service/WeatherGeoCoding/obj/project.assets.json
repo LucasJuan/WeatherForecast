@@ -153,6 +153,19 @@
         "runtime": {
           "bin/placeholder/WeatherGeocoding.Domain.dll": {}
         }
+      },
+      "WeatherGeocoding.Service/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "WeatherGeocoding.Domain": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/WeatherGeocoding.Service.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/WeatherGeocoding.Service.dll": {}
+        }
       }
     }
   },
@@ -599,12 +612,18 @@
       "type": "project",
       "path": "../WeatherGeocodingLibrary/WeatherGeocoding.Domain.csproj",
       "msbuildProject": "../WeatherGeocodingLibrary/WeatherGeocoding.Domain.csproj"
+    },
+    "WeatherGeocoding.Service/1.0.0": {
+      "type": "project",
+      "path": "../WeatherGeocoding.Service/WeatherGeocoding.Service.csproj",
+      "msbuildProject": "../WeatherGeocoding.Service/WeatherGeocoding.Service.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net8.0": [
       "Swashbuckle.AspNetCore >= 6.4.0",
-      "WeatherGeocoding.Domain >= 1.0.0"
+      "WeatherGeocoding.Domain >= 1.0.0",
+      "WeatherGeocoding.Service >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -639,6 +658,9 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
+            "C:\\Users\\ljgso\\OneDrive\\Área de Trabalho\\OpenMeteo\\WeatherForecast_OpenMeteo\\TestWeatherGeocoding.Service\\WeatherGeocoding.Service\\WeatherGeocoding.Service.csproj": {
+              "projectPath": "C:\\Users\\ljgso\\OneDrive\\Área de Trabalho\\OpenMeteo\\WeatherForecast_OpenMeteo\\TestWeatherGeocoding.Service\\WeatherGeocoding.Service\\WeatherGeocoding.Service.csproj"
+            },
             "C:\\Users\\ljgso\\OneDrive\\Área de Trabalho\\OpenMeteo\\WeatherForecast_OpenMeteo\\TestWeatherGeocoding.Service\\WeatherGeocodingLibrary\\WeatherGeocoding.Domain.csproj": {
               "projectPath": "C:\\Users\\ljgso\\OneDrive\\Área de Trabalho\\OpenMeteo\\WeatherForecast_OpenMeteo\\TestWeatherGeocoding.Service\\WeatherGeocodingLibrary\\WeatherGeocoding.Domain.csproj"
             }

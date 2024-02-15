@@ -1,7 +1,7 @@
 ﻿
 using WeatherGeocoding.Domain.Entities.External.OpenWeatherMap;
 using WeatherGeocoding.Domain.Interface.External.OpenWeatherMap;
-using WeatherGeocoding.Domain.Services.External.OpenWeatherMap;
+using WeatherGeocoding.Service.OpenWeatherMap;
 
 namespace WeatherGeoCoding.Configuration;
 

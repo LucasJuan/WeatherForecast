@@ -9,7 +9,8 @@
       "WeatherGeocoding.API/1.0.0": {
         "dependencies": {
           "Swashbuckle.AspNetCore": "6.4.0",
-          "WeatherGeocoding.Domain": "1.0.0"
+          "WeatherGeocoding.Domain": "1.0.0",
+          "WeatherGeocoding.Service": "1.0.0"
         },
         "runtime": {
           "WeatherGeocoding.API.dll": {}
@@ -82,6 +83,14 @@
         },
         "runtime": {
           "WeatherGeocoding.Domain.dll": {}
+        }
+      },
+      "WeatherGeocoding.Service/1.0.0": {
+        "dependencies": {
+          "WeatherGeocoding.Domain": "1.0.0"
+        },
+        "runtime": {
+          "WeatherGeocoding.Service.dll": {}
         }
       }
     }
@@ -156,6 +165,11 @@
       "hashPath": "swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512"
     },
     "WeatherGeocoding.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "WeatherGeocoding.Service/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

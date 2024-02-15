@@ -1,0 +1,16 @@
+C:\Users\ljgso\OneDrive\Área de Trabalho\OpenMeteo\WeatherForecast_OpenMeteo\TestWeatherGeocoding.Service\WeatherGeocoding.Service\bin\Debug\net8.0\WeatherGeocoding.Service.deps.json
+C:\Users\ljgso\OneDrive\Área de Trabalho\OpenMeteo\WeatherForecast_OpenMeteo\TestWeatherGeocoding.Service\WeatherGeocoding.Service\bin\Debug\net8.0\WeatherGeocoding.Service.dll
+C:\Users\ljgso\OneDrive\Área de Trabalho\OpenMeteo\WeatherForecast_OpenMeteo\TestWeatherGeocoding.Service\WeatherGeocoding.Service\bin\Debug\net8.0\WeatherGeocoding.Service.pdb
+C:\Users\ljgso\OneDrive\Área de Trabalho\OpenMeteo\WeatherForecast_OpenMeteo\TestWeatherGeocoding.Service\WeatherGeocoding.Service\bin\Debug\net8.0\WeatherGeocoding.Domain.dll
+C:\Users\ljgso\OneDrive\Área de Trabalho\OpenMeteo\WeatherForecast_OpenMeteo\TestWeatherGeocoding.Service\WeatherGeocoding.Service\bin\Debug\net8.0\WeatherGeocoding.Domain.pdb
+C:\Users\ljgso\OneDrive\Área de Trabalho\OpenMeteo\WeatherForecast_OpenMeteo\TestWeatherGeocoding.Service\WeatherGeocoding.Service\obj\Debug\net8.0\WeatherGeocoding.Service.csproj.AssemblyReference.cache
+C:\Users\ljgso\OneDrive\Área de Trabalho\OpenMeteo\WeatherForecast_OpenMeteo\TestWeatherGeocoding.Service\WeatherGeocoding.Service\obj\Debug\net8.0\WeatherGeocoding.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ljgso\OneDrive\Área de Trabalho\OpenMeteo\WeatherForecast_OpenMeteo\TestWeatherGeocoding.Service\WeatherGeocoding.Service\obj\Debug\net8.0\WeatherGeocoding.Service.AssemblyInfoInputs.cache
+C:\Users\ljgso\OneDrive\Área de Trabalho\OpenMeteo\WeatherForecast_OpenMeteo\TestWeatherGeocoding.Service\WeatherGeocoding.Service\obj\Debug\net8.0\WeatherGeocoding.Service.AssemblyInfo.cs
+C:\Users\ljgso\OneDrive\Área de Trabalho\OpenMeteo\WeatherForecast_OpenMeteo\TestWeatherGeocoding.Service\WeatherGeocoding.Service\obj\Debug\net8.0\WeatherGeocoding.Service.csproj.CoreCompileInputs.cache
+C:\Users\ljgso\OneDrive\Área de Trabalho\OpenMeteo\WeatherForecast_OpenMeteo\TestWeatherGeocoding.Service\WeatherGeocoding.Service\obj\Debug\net8.0\WeatherGeocoding.Service.sourcelink.json
+C:\Users\ljgso\OneDrive\Área de Trabalho\OpenMeteo\WeatherForecast_OpenMeteo\TestWeatherGeocoding.Service\WeatherGeocoding.Service\obj\Debug\net8.0\WeatherGeocoding.Service.csproj.CopyComplete
+C:\Users\ljgso\OneDrive\Área de Trabalho\OpenMeteo\WeatherForecast_OpenMeteo\TestWeatherGeocoding.Service\WeatherGeocoding.Service\obj\Debug\net8.0\WeatherGeocoding.Service.dll
+C:\Users\ljgso\OneDrive\Área de Trabalho\OpenMeteo\WeatherForecast_OpenMeteo\TestWeatherGeocoding.Service\WeatherGeocoding.Service\obj\Debug\net8.0\refint\WeatherGeocoding.Service.dll
+C:\Users\ljgso\OneDrive\Área de Trabalho\OpenMeteo\WeatherForecast_OpenMeteo\TestWeatherGeocoding.Service\WeatherGeocoding.Service\obj\Debug\net8.0\WeatherGeocoding.Service.pdb
+C:\Users\ljgso\OneDrive\Área de Trabalho\OpenMeteo\WeatherForecast_OpenMeteo\TestWeatherGeocoding.Service\WeatherGeocoding.Service\obj\Debug\net8.0\ref\WeatherGeocoding.Service.dll
