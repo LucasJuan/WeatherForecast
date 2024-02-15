@@ -12,10 +12,10 @@ This project displays the 7-day forecast for a specified postal address on a Rea
 ## Project Structure
 
 The UI is designed to generate a grid that displays the 7-day weather forecast. Three sample images showcase the project:
+![298296338-a531ce30-dc76-4123-8f29-0fbce5d33343](https://github.com/LucasJuan/WeatherForecast_OpenMeteo/assets/60763284/8d31b58e-9d18-4ce9-8118-3f5ce6382f15)
+![298411369-e6d179f1-92b9-494b-9a6b-7594af703fb8](https://github.com/LucasJuan/WeatherForecast_OpenMeteo/assets/60763284/a926adaf-436c-4824-9670-a0efa9ac0fb1)
+![298411401-4ca619f5-2223-4521-b819-26b31bd6b707](https://github.com/LucasJuan/WeatherForecast_OpenMeteo/assets/60763284/bb10b41a-741c-4f82-b7ea-cd1082f11959)
 
-![image](https://github.com/LucasJuan/WeatherForecast_OpenMeteo/assets/60763284/d336ad7b-6299-4432-b84a-fe7750faac44)
-![image](https://github.com/LucasJuan/WeatherForecast_OpenMeteo/assets/60763284/b61f4043-a438-41f7-86ce-89478b4aca90)
-![image](https://github.com/LucasJuan/WeatherForecast_OpenMeteo/assets/60763284/1b035729-d62d-485a-8444-976861fb5d9d)
 
 ## Getting Started
 
